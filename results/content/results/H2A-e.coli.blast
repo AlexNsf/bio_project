@@ -1,0 +1,11 @@
+# BLASTP 2.9.0+
+# Query: NP_004884.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=2]
+# Database: /content/data/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_004884.1	NP_415563.1	28.402	169	114	3	195	361	4	167	1.22e-21	88.2
+NP_004884.1	NP_418739.1	32.609	46	30	1	219	264	106	150	3.3	25.8
+NP_004884.1	NP_417430.1	50.000	22	11	0	17	38	267	288	4.4	26.2
+NP_004884.1	NP_415125.1	50.000	24	12	0	98	121	183	206	6.4	25.4
+NP_004884.1	NP_414837.2	38.462	39	21	1	306	344	4	39	9.2	23.5
+# BLAST processed 1 queries

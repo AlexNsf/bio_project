@@ -1,0 +1,7 @@
+# BLASTP 2.9.0+
+# Query: ENST00000341318.9 (KAT5) length=546
+# Database: /content/data/proteomes/thermococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ENST00000341318.9	WP_232500572.1	28.125	32	23	0	321	352	222	253	9.3	24.6
+# BLAST processed 1 queries

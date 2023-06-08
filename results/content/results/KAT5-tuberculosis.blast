@@ -1,0 +1,11 @@
+# BLASTP 2.9.0+
+# Query: ENST00000341318.9 (KAT5) length=546
+# Database: /content/data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+ENST00000341318.9	NP_218111.1	30.769	39	25	1	44	80	112	150	1.6	28.1
+ENST00000341318.9	NP_216351.1	28.333	60	35	2	495	546	295	354	1.8	28.1
+ENST00000341318.9	NP_214785.1	37.500	48	24	2	126	168	141	187	3.5	27.3
+ENST00000341318.9	NP_217496.1	42.105	38	16	2	186	217	41	78	5.8	25.8
+ENST00000341318.9	NP_215750.1	40.000	25	15	0	189	213	26	50	9.5	25.0
+# BLAST processed 1 queries
